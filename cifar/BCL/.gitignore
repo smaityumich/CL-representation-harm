@@ -1,0 +1,13 @@
+.idea
+*.pyc
+*.slurm
+
+/checkpoints
+/wandb
+/__pycache__
+/data/__pycache__
+/models/__pycache__
+/losses/__pycache__
+
+/bash_scripts_
+
